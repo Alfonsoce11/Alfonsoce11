@@ -1,4 +1,4 @@
-I'm Alfonso Caio Espino a 13 year old, in 7th grade at Goleta Valley Junior High. I have been learning to code. I've learned basic front-end web development. I know HTML, CSS and JavaScript. I'm certified in web design by freeCodeCamp. I want to learn back-end web development, Python, machine learning, and other things. Other skills I know are modern yoyoing, and speedcubing.
+I'm Alfonso Caio Espino a 13 year old, in 7th grade at Goleta Valley Junior High. I have been learning to code. I've learned basic front-end web development. I know HTML, CSS and JavaScript. I'm certified in web design by [freeCodeCamp](https://freecodecamp.org). I want to learn back-end web development, Python, machine learning, and other things. Other skills I know are modern yoyoing, and speedcubing.
 
 ---
 
