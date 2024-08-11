@@ -2,10 +2,11 @@ I'm Alfonso Caio Espino a 13 year old, in 7th grade at Goleta Valley Junior High
 
 ---
 
+
 <div id="header" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonsoce11)](https://github.com/anuraghazra/github-readme-stats)
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonsoce11&layout=compact)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alfonsoce11)](https://git.io/streak-stats)
 
 </div>
