@@ -1,6 +1,6 @@
-<h1>Hi, I'm Alfonso</h1>
+# Hi, I'm Alfonso Espino
 
-Hi, I'm Alfonso Caio Espino, a 13-year-old 7th grader with a passion for coding. I taught myself the basics of front-end web development and earned my [Responsive Web Design](https://freecodecamp.org/certification/Alfonsoce11/responsive-web-design) certification from [freeCodeCamp](https://freecodecamp.org). I'm excited to continue learning advanced front-end and back-end web development, Python, and more. I attend Goleta Valley Junior High, where I play trumpet in the beginner band and also enjoy playing soccer. I'm also in Science Olympiad. Outside of school, I love modern yoyoing and speedcubing.
+I'm 13 and in 7th grade. I like coding and engineering. I know the basics of front-end web development using HTML, CSS, and JavaScript, and earned the [Responsive Web Design Certification](https://freecodecamp.org/certification/Alfonsoce11/responsive-web-design) from [freeCodeCamp](https://freecodecamp.org). I also know some Python. I want to improve my skills and learn full-stack web development. I also know CAD using [OnShape](https://onshape.com).
 
 ---
 
