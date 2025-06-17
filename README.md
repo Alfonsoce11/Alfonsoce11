@@ -9,6 +9,8 @@ I'm 13 and in 7th grade. I'm into coding, tech, and engineering stuff. I know th
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonsoce11&layout=compact)
 
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=2894&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alfonsoce11)](https://git.io/streak-stats)
 
 </div>
