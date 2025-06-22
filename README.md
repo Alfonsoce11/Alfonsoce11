@@ -5,7 +5,7 @@ I'm 13 and in 7th grade. I'm into coding, tech, and engineering stuff. I know th
 ---
 
 
-<div id="header" align="left">
+<div id="header" align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonsoce11&layout=compact)
 
