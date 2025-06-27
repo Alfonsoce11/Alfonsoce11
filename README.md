@@ -4,9 +4,7 @@
 
 <br>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-
-<div id="header" align="center">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;" id="stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonsoce11&layout=donut&theme=dark" alt="Top Langs">
 
@@ -15,8 +13,6 @@
 <img src="https://streak-stats.demolab.com?user=Alfonsoce11&theme=dark" alt="Github Streak">
 
 <img src="https://github-readme-stats.vercel.app/api?username=alfonsoce11&show_icons=true&theme=dark" alt="Alfonso's GitHub Stats">
-
-</div>
 
 </div>
 
