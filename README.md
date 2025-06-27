@@ -4,7 +4,7 @@
 
 <br>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; display: block; margin: 0 auto; width: 100%;" id="stats">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; display: block; margin: 0 auto; width: 100%;" id="stats" class="hide">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonsoce11&layout=donut&theme=dark" alt="Top Langs">
 
