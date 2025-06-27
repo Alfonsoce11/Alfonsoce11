@@ -2,6 +2,8 @@
 
 <p>I'm Alfonso Espino. I'm 13 and I'm going into 8th grade. I'm into coding, tech, and engineering stuff. I know the basics of front-end web development using HTML, CSS, and JavaScript, and earned the <a href="https://freecodecamp.org/certification/Alfonsoce11/responsive-web-design">Responsive Web Design Certification</a> from <a href="https://freecodecamp.org">freeCodeCamp</a>. I also know some Python. I want to improve my skills and learn full-stack web development. I also know CAD using <a href="https://onshape.org">OnShape</a>.</p>
 
+<br>
+
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
 
 <div id="header" align="center">
@@ -17,6 +19,8 @@
 </div>
 
 </div>
+
+<br>
 
 <hr>
 
