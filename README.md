@@ -7,13 +7,13 @@
 
 <div id="header" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonsoce11&layout=compact" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonsoce11&layout=donut&theme=dark" alt="Top Langs">
 
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2894&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats">
 
-<img src="https://streak-stats.demolab.com?user=Alfonsoce11)](https://git.io/streak-stats" alt="Github Streak">
+<img src="https://streak-stats.demolab.com?user=Alfonsoce11&theme=dark" alt="Github Streak">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alfonsoce11&show_icons=true&theme=highcontrast" alt="Alfonso's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=alfonsoce11&show_icons=true&theme=dark" alt="Alfonso's GitHub Stats">
 
 </div>
 
